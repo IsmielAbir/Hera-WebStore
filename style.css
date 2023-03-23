@@ -142,6 +142,10 @@
     /* Set the container height to the full viewport height */
 }
 
+.hidden {
+    display: none;
+}
+
 
 /* For screens smaller than 576px (e.g., mobile devices) */
 
