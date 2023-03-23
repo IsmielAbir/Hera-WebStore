@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.txt {
+    text-decoration: none !important;
+    color: black !important;
+    padding: 2px 30px !important;
+    font-weight: 600 !important;
+    font-size: 1.4em !important;
+}
+
+.txt1 {
+    text-decoration: none !important;
+    color: rgb(255, 255, 255) !important;
+    padding: 2px 30px !important;
+    font-weight: 600 !important;
+    font-size: 1.4em !important;
+}
+
+.txt2 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.custom-btn {
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 1.4em !important;
+    background: transparent;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    position: relative;
+    display: inline-block;
+    box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, .5), 7px 7px 20px 0px rgba(0, 0, 0, .1), 4px 4px 5px 0px rgba(0, 0, 0, .1);
+    outline: none;
+}
+
+.btn {
+    background: linear-gradient(0deg, rgb(0, 229, 254) 0%, rgb(17, 226, 90) 100%);
+    width: 130px;
+    height: 40px;
+    line-height: 42px;
+    padding: 25;
+    border: none;
+    font-weight: 1.4em !important;
+}
+
+.btn span {
+    display: block;
+    width: 100%;
+    height: 2px solid aqua;
+}
+
+.btn:before,
+.btn:after {
+    position: absolute;
+    content: "";
+    right: 0;
+    top: 0;
+    background: rgba(2, 126, 251, 1);
+    transition: all 0.5s ease;
+}
+
+.btn:before {
+    height: 0%;
+    width: 2px;
+}
+
+.btn:after {
+    width: 0%;
+    height: 2px;
+}
+
+.btn:hover:before {
+    height: 100%;
+}
+
+.btn:hover:after {
+    width: 100%;
+}
+
+.btn span:before,
+.btn span:after {
+    position: absolute;
+    content: "";
+    left: 0;
+    bottom: 0;
+    background: rgba(2, 126, 251, 1);
+    transition: all 0.3s ease;
+}
+
+.btn span:before {
+    width: 2px;
+    height: 0%;
+}
+
+.btn span:after {
+    width: 0%;
+    height: 2px;
+}
+
+.btn span:hover:before {
+    height: 100%;
+}
+
+.btn span:hover:after {
+    width: 100%;
+}
+
+.dis {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 50px 0;
+}
+
+.dis1 {
+    margin: 30px;
+}
+
+.display {
+    background-color: black;
+    color: aqua;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    /* Set the container height to the full viewport height */
+}
+
+
+/* For screens smaller than 576px (e.g., mobile devices) */
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+    #carouselExampleCaptions {
+        display: none;
+    }
+}
