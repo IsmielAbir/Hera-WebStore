@@ -1,0 +1,174 @@
+{
+    "books": [{
+            "id": 1,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Classic literature",
+            "description": "Set in the Deep South and revolving around the trial of a black man accused of raping a white woman, the novel is renowned for its warmth and humor, despite dealing with serious issues of rape and racial inequality.",
+            "image": "./media/b1.JPG"
+        },
+        {
+            "id": 2,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian fiction",
+            "description": "The story takes place in a totalitarian society, where the government has complete control over every aspect of citizens' lives, and follows the protagonist Winston Smith as he rebels against the oppressive regime.",
+            "image": "./media/b2.JPG"
+        },
+        {
+            "id": 3,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Romance",
+            "description": "Set in the early 19th century, the novel follows the story of the Bennet family, and in particular the romance between Elizabeth Bennet and Mr. Darcy.",
+            "image": "./media/b3.JPG"
+        },
+        {
+            "id": 4,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Coming-of-age fiction",
+            "description": "The story is narrated by Holden Caulfield, a teenager who has been expelled from his prep school, and follows his journey through New York City as he struggles with depression, disillusionment, and growing up.",
+            "image": "./media/b4.JPG"
+        },
+        {
+            "id": 5,
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "description": "The epic fantasy novel follows the quest of Frodo Baggins and a fellowship of characters to destroy the One Ring and defeat the Dark Lord Sauron.",
+            "image": "./media/b5.JPG"
+        },
+        {
+            "id": 6,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Classic literature",
+            "description": "The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted 'gin was the national drink and sex the national obsession,' it is an exquisitely crafted tale of America in the 1920s.",
+            "image": "./media/b6.JPG"
+        },
+        {
+            "id": 7,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "genre": "Fantasy",
+            "description": "The prequel to The Lord of the Rings follows the adventures of hobbit Bilbo Baggins as he sets out on a quest to reclaim the lost Dwarf Kingdom of Erebor from the dragon Smaug.",
+            "image": "./media/b7.JPG"
+        },
+        {
+            "id": 8,
+            "title": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "genre": "Gothic fiction",
+            "description": "The novel tells the story of young Dorian Gray, who sells his soul to the devil in exchange for eternal youth and beauty, leading to a life of hedonism and corruption.",
+            "image": "./media/b8.JPG"
+        },
+        {
+            "id": 9,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian fiction",
+            "description": "Set in a future world where genetic engineering and conditioning have created a stable, conformist society, the novel follows the characters as they grapple with the consequences of this system.",
+            "image": "./media/b9.JPG"
+        },
+        {
+            "id": 10,
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "genre": "Magical realism",
+            "description": "The novel tells the multi-generational story of the Buendía family, set in the fictional town of Macondo, and incorporates elements of magical realism and explores themes of love, death, and the cyclical nature of time.",
+            "image": "./media/b10.JPG"
+        },
+        {
+            "id": 11,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "genre": "Psychological fiction",
+            "description": "The novel follows the story of ex-student Raskolnikov as he contemplates and carries out a brutal murder, and grapples with the psychological and moral consequences of his actions.",
+            "image": "./media/b11.JPG"
+        },
+        {
+            "id": 12,
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "genre": "Post-apocalyptic fiction",
+            "description": "Set in a post-apocalyptic world where a father and son must navigate a harsh, dangerous landscape in search of safety, the novel explores themes of survival, love, and hope.",
+            "image": "./media/b12.JPG"
+        },
+
+
+        {
+            "id": 13,
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "Southern Gothic",
+            "description": "Set in the 1930s in a small town in Alabama, the novel explores themes of racial injustice and prejudice through the eyes of young Scout Finch and her family.",
+            "image": "./media/b1.JPG"
+        },
+        {
+            "id": 14,
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "genre": "Coming-of-age fiction",
+            "description": "The novel follows the story of Holden Caulfield, a disaffected teenager who is expelled from his prep school and wanders around New York City, grappling with themes of alienation and identity.",
+            "image": "./media/b4.JPG"
+        },
+        {
+            "id": 15,
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "Modernist novel",
+            "description": "Set in the Jazz Age of the 1920s, the novel tells the story of Jay Gatsby and his pursuit of the elusive Daisy Buchanan, and explores themes of wealth, love, and the American Dream.",
+            "image": "./media/b6.JPG"
+        },
+        {
+            "id": 16,
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "Regency romance",
+            "description": "The novel follows the story of the Bennet family and their five daughters, particularly the strong-willed Elizabeth Bennet, and explores themes of social class, marriage, and love.",
+            "image": "./media/b3.JPG"
+        },
+        {
+            "id": 17,
+            "title": "The Brothers Karamazov",
+            "author": "Fyodor Dostoevsky",
+            "genre": "Philosophical fiction",
+            "description": "The novel explores themes of faith, reason, morality, and free will through the story of the Karamazov family and the murder of their father.",
+            "image": "./media/b17.JPG"
+        },
+        {
+            "id": 18,
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "Dystopian fiction",
+            "description": "The novel is set in a totalitarian society where the government exercises complete control over citizens' lives and thoughts, and follows the story of Winston Smith as he rebels against the regime.",
+            "image": "./media/b2.JPG"
+        },
+        {
+            "id": 19,
+            "title": "One Hundred Years of Solitude",
+            "author": "Gabriel Garcia Marquez",
+            "genre": "Magical realism",
+            "description": "The novel tells the story of the Buendia family over seven generations in the fictional town of Macondo, and explores themes of family, memory, and the cyclical nature of time.",
+            "image": "./media/b10.JPG"
+        },
+
+        {
+            "id": 23,
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "genre": "Post-apocalyptic fiction",
+            "description": "The novel follows the story of a father and son as they journey through a post-apocalyptic wasteland, and explores themes of survival, hope, and the enduring power of love.",
+            "image": "./media/b12.JPG"
+        },
+        {
+            "id": 24,
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "Dystopian fiction",
+            "description": "The novel is set in a futuristic society where people are genetically engineered and conditioned to conform to a rigid caste system, and explores themes of individuality, freedom, and the limits of technology.",
+            "image": "./media/b9.JPG"
+        }
+    ]
+}

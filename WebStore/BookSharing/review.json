@@ -1,0 +1,174 @@
+{
+    "reviewRating": [{
+            "title": "The Lord of the Rings",
+            "author": "J.R.R. Tolkien",
+            "description": "An epic fantasy novel set in Middle Earth that follows the quest of a hobbit to destroy a powerful ring.",
+            "image": "./media/b5.JPG",
+            "reviews": [{
+                    "username": "jack",
+                    "rating": 5,
+                    "comment": "This is a masterpiece of fantasy literature. The world-building is incredible and the characters are unforgettable."
+                },
+                {
+                    "username": "Shah",
+                    "rating": 4,
+                    "comment": "While I found the writing to be a bit dense at times, I couldn't help but get sucked into the story."
+                }
+            ]
+        },
+
+        {
+            "title": "The Picture of Dorian Gray",
+            "author": "Oscar Wilde",
+            "description": "A novel about a man who remains youthful while a portrait of him ages and reveals his inner corruption.",
+            "image": "./media/b8.JPG",
+            "reviews": [{
+                    "username": "vini",
+                    "rating": 5,
+                    "comment": "This is a beautifully written book that explores the dangers of vanity and hedonism."
+                },
+                {
+                    "username": "Leo",
+                    "rating": 2,
+                    "comment": "I found the characters to be shallow and unlikable, and the plot to be tedious."
+                }
+            ]
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "description": "A classic novel set in the Deep South that explores racial injustice and the loss of innocence.",
+            "image": "./media/b1.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 5,
+                    "comment": "This book is a masterpiece that everyone should read at least once."
+                },
+                {
+                    "username": "jaber",
+                    "rating": 4,
+                    "comment": "I enjoyed reading this book and found the characters to be very well-developed."
+                }
+            ]
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "description": "A dystopian novel set in a totalitarian society where citizens are under constant surveillance.",
+            "image": "./media/b2.JPG",
+            "reviews": [{
+                    "username": "joe",
+                    "rating": 5,
+                    "comment": "This book is a warning against the dangers of authoritarianism and the power of propaganda."
+                },
+                {
+                    "username": "hope",
+                    "rating": 3,
+                    "comment": "While I appreciate the themes of the book, I found it to be a bit too dark and depressing for my taste."
+                }
+            ]
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "description": "A novel set in the Roaring Twenties that follows the lives of wealthy socialites and their pursuit of the American Dream.",
+            "image": "./media/b6.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 4,
+                    "comment": "I enjoyed the glamorous setting and the tragic love story."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 2,
+                    "comment": "I found the characters to be shallow and unlikeable, and the plot to be predictable."
+                }
+            ]
+        },
+        {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "description": "A novel set in 19th-century England that explores the themes of love, marriage, and class.",
+            "image": "./media/b3.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 5,
+                    "comment": "This is one of my favorite books of all time. The characters are delightful and the writing is witty and charming."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 4,
+                    "comment": "While I enjoyed the book, I found some of the characters to be a bit one-dimensional."
+                }
+            ]
+        },
+        {
+            "title": "1984",
+            "author": "George Orwell",
+            "description": "A dystopian novel set in a totalitarian society where citizens are monitored and controlled by the government.",
+            "image": "./media/b2.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 5,
+                    "comment": "This book is a haunting warning about the dangers of authoritarianism. A must-read."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 4,
+                    "comment": "While the book can be depressing at times, it's an important reminder of the need to protect our freedoms."
+                }
+            ]
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "description": "A novel set in the American South during the 1930s that explores issues of racism and injustice through the eyes of a young girl.",
+            "image": "./media/b1.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 5,
+                    "comment": "This is a powerful and moving book that everyone should read. The characters are so vivid and the themes are still relevant today."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 3,
+                    "comment": "While I appreciate the message of the book, I found the plot to be a bit slow."
+                }
+            ]
+        },
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger",
+            "description": "A novel about a teenage boy who feels disconnected from society and struggles to find his place in the world.",
+            "image": "./media/b4.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 4,
+                    "comment": "I enjoyed the character development in this book and found the protagonist to be relatable."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 2,
+                    "comment": "I found the book to be overrated and the protagonist to be insufferable."
+                }
+            ]
+        },
+        {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "description": "A novel set in the 1920s that explores the decadence and excess of the Jazz Age through the story of a wealthy man and his obsession with a former love.",
+            "image": "./media/b6.JPG",
+            "reviews": [{
+                    "username": "johndoe",
+                    "rating": 5,
+                    "comment": "This book is a masterpiece of American literature. The writing is gorgeous and the characters are fascinating."
+                },
+                {
+                    "username": "janedoe",
+                    "rating": 3,
+                    "comment": "While the book captures the spirit of the 1920s, I found the characters to be shallow and the plot to be unfulfilling."
+                }
+            ]
+        }
+    ]
+}

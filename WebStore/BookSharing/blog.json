@@ -1,0 +1,211 @@
+{
+    "blogPosts": [{
+            "id": 1,
+            "title": "The Importance of Good Sleep Habits",
+            "author": "John Smith",
+            "image": "",
+            "description": "Learn about the benefits of good sleep habits and how to improve your sleep quality.",
+            "details": "The Importance of Good Sleep Habits: How to Improve Your Sleep Quality. We all know that getting a good night 's sleep is essential for our overall well-being, but why is it so important? In this blog, we will explore the benefits of good sleep habits and provide some tips on how to improve your sleep quality. The Benefits of Good Sleep Habits: Improved Physical Health: Getting enough sleep is crucial for our physical health.It helps our body repair and rejuvenate, which is essential for maintaining a healthy immune system, reducing inflammation",
+            "likes": 150,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "Great article! I've been struggling with insomnia for years and these tips really helped me."
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've always been a good sleeper, but I never realized how much of an impact it has on our health. Thanks for sharing!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Why Everyone Should Learn to Code",
+            "author": "Sarah Johnson",
+            "image": "",
+            "description": "Discover the many benefits of learning to code, including improved problem-solving skills and increased job opportunities.",
+            "likes": 200,
+            "comments": [{
+                    "username": "jackdoe",
+                    "comment": "I completely agree! Learning to code has helped me in so many areas of my life, not just my career."
+                },
+                {
+                    "username": "janesmith",
+                    "comment": "As someone who has never learned to code, this article was really interesting! I might have to give it a try."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "The Benefits of Yoga",
+            "author": "Emily Chen",
+            "image": "",
+            "description": "Learn about the physical and mental health benefits of practicing yoga, and how to get started.",
+            "likes": 100,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "I've been practicing yoga for years and it has made such a difference in my life. Highly recommend it!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've been wanting to try yoga for a while now, this article has inspired me to finally give it a go!"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "The Importance of a Balanced Diet",
+            "author": "Mark Johnson",
+            "image": "",
+            "description": "Learn about the benefits of a balanced diet and how to make healthier food choices.",
+            "likes": 120,
+            "comments": [{
+                    "username": "jackdoe",
+                    "comment": "I've been trying to eat healthier lately, these tips were really helpful. Thanks for sharing!"
+                },
+                {
+                    "username": "janesmith",
+                    "comment": "I never realized how much of an impact our diet has on our health. Definitely going to start making some changes!"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "The Benefits of Meditation",
+            "author": "Jennifer Lee",
+            "image": "",
+            "description": "Learn how meditation can improve your mental and physical well-being.",
+            "likes": 75,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "I started meditating a few months ago and it has made such a difference in my life. Thanks for spreading the word!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've always been curious about meditation but didn't know where to start. Your article gave me some great tips!"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "The Benefits of Traveling Solo",
+            "author": "David Brown",
+            "image": "",
+            "description": "Discover the joys and challenges of traveling alone, and why it's worth trying at least once in your life.",
+            "likes": 112,
+            "comments": [{
+                    "username": "jackdoe",
+                    "comment": "I've always been nervous about traveling solo, but your article has inspired me to give it a try. Thanks for the great tips!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've traveled alone a few times and it was an incredible experience. I definitely recommend it to anyone who is thinking about it."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "The Benefits of a Healthy Diet",
+            "author": "Emily Chen",
+            "image": "",
+            "description": "Learn how a healthy diet can improve your energy, mood, and overall well-being.",
+            "likes": 89,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "Eating healthy has made such a difference in my life. I feel more energized and focused than ever before!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've been trying to eat healthier but it's been a struggle. Your article gave me some great ideas for healthy and delicious meals."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "The Benefits of Strength Training",
+            "author": "Michael Johnson",
+            "image": "",
+            "description": "Discover the many benefits of strength training, including improved muscle tone, increased metabolism, and decreased risk of injury.",
+            "likes": 124,
+            "comments": [{
+                    "username": "jackdoe",
+                    "comment": "I've been strength training for a few months now and it's amazing how much stronger I feel. Your article is spot on!"
+                },
+                {
+                    "username": "johndoe",
+                    "comment": "I've always been intimidated by strength training, but your article has inspired me to give it a try. Thanks for the great tips!"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "The Benefits of Meditation",
+            "author": "Emily Wong",
+            "image": "",
+            "description": "Learn about the many physical and mental health benefits of practicing meditation, including reduced stress and improved focus.",
+            "likes": 75,
+            "comments": [{
+                    "username": "janedoe",
+                    "comment": "I've been meditating for years and can confirm it's made a huge difference in my life. Thanks for spreading the word!"
+                },
+                {
+                    "username": "johnsmith",
+                    "comment": "I've been meaning to start meditating but didn't know where to begin. This article has some great tips, thanks!"
+                }
+            ]
+        },
+
+        {
+            "id": 10,
+            "title": "The Benefits of Traveling Solo",
+            "author": "David Kim",
+            "image": "",
+            "description": "Discover the many advantages of traveling alone, including the ability to explore new places on your own terms and gain confidence and independence.",
+            "likes": 100,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "I've always been afraid to travel alone, but this article has inspired me to give it a try. Thanks for the tips!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've traveled solo before and can attest to the benefits. It's a great way to step out of your comfort zone and learn about yourself."
+                }
+            ]
+        },
+
+        {
+            "id": 11,
+            "title": "The Benefits of a Plant-Based Diet",
+            "author": "Karen Lee",
+            "image": "",
+            "description": "Learn about the many health and environmental benefits of switching to a plant-based diet, including reduced risk of chronic diseases and lower carbon footprint.",
+            "likes": 150,
+            "comments": [{
+                    "username": "jackdoe",
+                    "comment": "I recently switched to a plant-based diet and can already feel the difference in my energy levels and overall health. Great article!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've been a vegan for years and love seeing more people embrace this lifestyle. Thanks for spreading the word!"
+                }
+            ]
+        },
+
+        {
+            "id": 12,
+            "title": "The Benefits of Yoga",
+            "author": "Maria Rodriguez",
+            "image": "",
+            "description": "Discover the many physical and mental health benefits of practicing yoga, including improved flexibility and reduced stress.",
+            "likes": 100,
+            "comments": [{
+                    "username": "johndoe",
+                    "comment": "I've been practicing yoga for years and can attest to its many benefits. Thanks for sharing!"
+                },
+                {
+                    "username": "janedoe",
+                    "comment": "I've been meaning to try yoga but didn't know where to start. This article has some great tips, thanks!"
+                }
+            ]
+        }
+    ]
+}
