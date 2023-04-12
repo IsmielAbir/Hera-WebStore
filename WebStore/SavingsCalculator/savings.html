@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../assets/bootstrap.min.css">
+    <link rel="shortcut icon" href="../../media/n1.JPG" type="image/x-icon">
+    <title>Savings Calculator</title>
+</head>
+
+<body>
+
+    <section>
+        <header>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid">
+                    <a class="navbar-brand txt" href="">
+                        <img src="../../media/n1.JPG" width="30" height="30" class="d-inline-block align-top" alt=""> Savings Calculation
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                        <ul class="navbar-nav ms-auto">
+
+                            <a class="nav-link txt" href="../../WebStore/WebStore.html">WebStore</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link txt" href="../../index.html">Hera WebStore</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+    </section>
+    <div class="container d-flex justify-content-center align-items-center vh-100">
+
+
+        <div class="card mb-3" style="max-width: 1920px;">
+            <div class="row g-12">
+                <div class="col-md-6">
+                    <img src="../../media/n1.JPG" class="img-fluid rounded-start" alt="...">
+                </div>
+                <div class="col-md-6">
+                    <div class="card-body">
+                        <h2 class="card-title">Savings Calculator</h2>
+                        <br>
+                        <h6>Enter Your Total Monthly Income</h6>
+                        <p>Total Income: <input name="" id="total" placeholder="Monthly Income"></p>
+                        <br>
+                        <h6>Enter Your Total Monthly Spend</h6>
+                        <p> House Rent : <input name="" id="rent" placeholder="House Rent"></p>
+                        <p> Educational: &nbsp;<input name="" id="education" placeholder="Educational"></p>
+                        <p> Food Cost: &nbsp; &nbsp;<input name="" id="food" placeholder="Food Cost"></p>
+                        <p> Family Cost : <input name="" id="family" placeholder="Family Cost"></p>
+                        <p> Others Cost : <input name="" id="others" placeholder="Others Cost"></p>
+                        <br>
+
+                        <p> Total Spend : <span id="spend">$00</span></p>
+                        <p>Savings: <span id="savings">$00</span></p>
+                        <br>
+                        <button class="custom-btn btn" id="button-click"><span>Calculate</span></button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script src="../../assets/bootstrap.bundle.min.js"></script>
+    <script src="./savings.js"></script>
+
+</body>
+
+</html>
