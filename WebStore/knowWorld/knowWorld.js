@@ -12,7 +12,7 @@ function showCountries(show) {
         contryItem.innerHTML = `
         <div class="col" >
 
-        <div class="card h-100">
+        <div class="card h-80">
                 <div class="card-body">
                 <h3 class="card-title">${country.name.common}</h3>
                         <h4 class="card-text">Capital: ${country.capital}</h4>
@@ -28,5 +28,7 @@ function showCountries(show) {
     }
 
 }
+
+
 
 loadCountries();

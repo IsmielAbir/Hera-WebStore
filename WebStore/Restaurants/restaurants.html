@@ -7,17 +7,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../../style.css">
     <link rel="stylesheet" href="../../assets/bootstrap.min.css">
-    <link rel="shortcut icon" href="../../media/n2.JPG" type="image/x-icon">
-    <title>Know World</title>
+    <link rel="shortcut icon" href="../../media/n4.JPG" type="image/x-icon">
+    <title>Hera Restaurants</title>
 </head>
 
 <body>
+
     <section>
         <header>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
                     <a class="navbar-brand txt" href="">
-                        <img src="../../media/n2.JPG" width="30" height="30" class="d-inline-block align-top" alt=""> Know the World
+                        <img src="../../media/n4.JPG" width="30" height="30" class="d-inline-block align-top" alt=""> Hera Restaurants
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -39,19 +40,44 @@
     </section>
 
 
+
+    <div id="carouselExampleCaptions" class="carousel slide">
+        <div class="carousel-indicators">
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="../../media/n5.JPG" height="700px" class="d-block w-100" alt="...">
+                <div class="carousel-caption d-none d-md-block">
+
+                    <div class="input-group mb-5 w-75 mx-auto">
+                        <input id="InputName" type="text" class="form-control" placeholder="Search The Food You Like Most" aria-label="Recipient's username" aria-describedby="button-addon2">
+                        <button onclick="SearchFood()" class="btn btn-outline-secondary" type="button">Search</button>
+                    </div>
+
+
+                    <br><br><br><br><br><br><br><br><br>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br>
     <section>
-        <div class="row row-cols-1 row-cols-md-3 g-4" id="showcontries">
-
-
+        <div class="row row-cols-1 row-cols-md-3 g-4" id="meal">
         </div>
 
-
     </section>
+
+    <br>
+    <section>
+        <div class="row row-cols-1 row-cols-md-3 g-4" id="mealSearch">
+        </div>
+    </section>
+
 
 
     <script src="../../assets/bootstrap.bundle.min.js"></script>
 
-    <script src="knowWorld.js"></script>
+    <script src="restaurants.js"></script>
 </body>
 
 </html>
